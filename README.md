@@ -8,10 +8,8 @@
 
 ### İpuçları
 
-- Ctf başladıktan sonra ipuçları burada yer alacaktır.
+- rockyou ?
 
 ### İndir
 
-`Github üzerinden(Pasif)` : <https://github.com>
-
-`Drive üzerinden(Pasif)` : <https://github.com>
+`Github üzerinden(Aktif)` : <https://github.com/sibertime/ctf/blob/master/SiberTime-CTF.zip>
