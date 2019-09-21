@@ -9,6 +9,7 @@
 ### İpuçları
 
 - rockyou ?
+- Web sorusundaki extension sorunun anlam ve önemini taşıyor. Extension çok yakınlarında.
 
 ### İndir
 
