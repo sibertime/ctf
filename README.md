@@ -13,7 +13,10 @@
 
 - rockyou ?
 - Web sorusundaki extension sorunun anlam ve önemini taşıyor. Extension çok yakınlarında.
+### Bayrağa ulaşanlar
 
+- eybisi
+- Ferit '𝘼𝙉𝙏𝙃𝘼' Uzun
 ### İndir
 
 `Github üzerinden(Aktif)` : <https://github.com/sibertime/ctf/blob/master/SiberTime-CTF.zip>
