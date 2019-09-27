@@ -165,6 +165,6 @@
 
 ![](https://raw.githubusercontent.com/sibertime/ctf/master/writeup/images/36.png)
 
-##*Soruyu çözenler*##
+##*Soruyu çözenler*
 - eybisi
 - Ferit '𝘼𝙉𝙏𝙃𝘼' Uzun
